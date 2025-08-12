@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Ten years have passed on Tygon since the Virtual Prophet woke the Dreamers. </p> <p>Games of life and death continue, and the stakes for winning - or losing - promise to affect the inhabitants across three realities. </p>"; 
