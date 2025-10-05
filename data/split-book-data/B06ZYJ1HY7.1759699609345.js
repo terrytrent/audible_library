@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Dawn belongs to a secret group of teenagers who play a cloak and dagger game on their cell phones. Her world is turned upside down when the players' actions begin to affect reality, and not in good ways. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Deceived by a trusted colleague, Loredana Cyber, heir to the world's largest entertainment company, walks away from big business and vows never to return. </p> <p>When a young programmer on the verge of perfecting an incredible new technology comes to her for help, she must decide - remain anonymous, or return to an arena that betrayed her. </p>"; 
