@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>The Complete Angler</i> has been in print for over 350 years. Just a how-to book on fishing would not have created such a popular work. Walton's comments on how to catch and prepare numerous varieties of fish create a pleasant leisure read for any fisherman. His anecdotes are as fresh and contemporary today as they were in his century.</p>"; 
