@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>What if life as we know it was just a game? </p> <p>What if instead of traditional schools, children learned by participating in a virtual reality simulation, one that allowed them to experience \"life\" from birth to death - multiple times? </p> <p>What if one player, on his final play, could change the world forever? </p>"; 

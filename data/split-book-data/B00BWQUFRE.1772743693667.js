@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>R. A. Salvatore's <i>New York Times</i> best-selling novel! Drizzt DoUrden has forsaken his subterranean home for the harsh unknown of the surface. The young warrior begins a sojourn through a world utterly unlike his own - and finds that acceptance among the surface-dwellers will only come at a great price....</p>"; 
