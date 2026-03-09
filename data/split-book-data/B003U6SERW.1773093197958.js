@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A bold young wizard enters the labyrinth of the sacred Tombs of Atuan to steal the magical ring of Erreth-Akbe. Instead, he finds an unhappy priestess in need of a hero to save her."; 

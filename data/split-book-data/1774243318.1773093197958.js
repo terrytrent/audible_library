@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The Alien Legion has a new mission, and this time, they are working for the enemy. Also against the enemy. Like every operation that Emily Perkins plans, it’s complicated. But plans require good intel, and when the plan falls apart, the Mavericks are in freefall....</p>"; 
