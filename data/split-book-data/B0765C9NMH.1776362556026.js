@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Cooper has made mistakes. Lives were lost. Realties destroyed. </p> <p>Invited to join a mysterious and powerful group known as Wielders, he must learn whether his new powers are a blessing or a curse. </p>"; 
