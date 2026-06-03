@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Scandal, treachery and crime are rife in Old London Town. A king blackmailed by his mistress, dark dealings in opium dens, stolen jewels, a missing bride - these are cases so fiendishly complex that only Sherlock Holmes would dare to investigate."; 

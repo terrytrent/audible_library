@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Return to Earthsea with Ged, the brash young wizard who survived the enchanted labyrinth of <i>The Tombs of Atuan</i>. In the third episode of this brilliant fantasy saga, a much older Ged sets off on a harrowing quest for the source of a terrible darkness that is taking the magic out of Earthsea.</p>"; 
