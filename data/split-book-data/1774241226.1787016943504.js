@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Are thousands of orbs, with each containing a reality housing billions of souls, about to burn out and die?</p> <p>Can Trew find his daughter, or will everything he has sacrificed be for nothing?</p> <p>And what impact will a young scientist who believes that his reality exists inside of a computer simulation make on his world?</p>"; 

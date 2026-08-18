@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This stunning new release of the classic R.A. Salvatore novel recounts the origins of Salvatore's signature dark elf character, Drizzt Do'Urden. This title kicks off The Legend of Drizzt series, which will showcase the classic dark elf novels in these new audiobook editions. </p>"; 
